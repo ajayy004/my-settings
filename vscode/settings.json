@@ -1,0 +1,33 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": false
+  },
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.renderIndentGuides": true,
+  "editor.rulers": [
+    80
+  ],
+  "editor.smoothScrolling": true,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.showAbbreviationSuggestions": false,
+  "emmet.showExpandedAbbreviation": "never",
+  "explorer.autoReveal": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.openEditors.visible": 0,
+  "extensions.ignoreRecommendations": false,
+  "git.enableSmartCommit": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.validate.enable": true,
+  "problems.decorations.enabled": true,
+  "search.useIgnoreFiles": false,
+  "terminal.integrated.shell.osx": "zsh",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": -1,
+  "workbench.activityBar.visible": true,
+  "workbench.colorTheme": "Material Theme Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.settings.editor": "json"
+}
